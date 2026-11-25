@@ -1,0 +1,4 @@
+complaint_id,complaint_text,location_name,latitude,longitude,timestamp,severity,source_type
+DEMO-001,"A large pothole near the bus stop causes two-wheelers to swerve.",Synthetic Bengaluru demo location A,,,2026-01-03T07:13:00Z,high,Synthetic demo data
+DEMO-002,"Traffic signal is not working at the junction.",Synthetic Bengaluru demo location B,,,2026-02-06T14:26:00Z,high,Synthetic demo data
+DEMO-003,"Cars are parked on both sides and block the lane.",Synthetic Bengaluru demo location C,,,2026-03-09T21:39:00Z,medium,Synthetic demo data
